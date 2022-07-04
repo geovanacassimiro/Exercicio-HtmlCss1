@@ -1,0 +1,42 @@
+.titulo1{
+    text-align: center;
+    font-family:sans-serif;
+    background-color:  #964b00;
+}
+
+#banner{
+    width: 100%;
+}
+
+.principal{
+    text-align: center;
+    font-family:sans-serif;
+}
+
+h3{
+    margin-top: 10%;
+}
+
+div{
+    margin-left: 10%;
+    font-family:sans-serif;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    height: 15%;
+}
+
+#img{
+    margin-top: -10%;
+    padding-left: 15%;
+    width: 50%;
+    
+}
+
+footer{
+    margin-top: 3%;
+    font-family:sans-serif;
+    text-align: center;
+}
